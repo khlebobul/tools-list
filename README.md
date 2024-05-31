@@ -26,6 +26,8 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 15. [Travel](#travel)
 16. [Video](#video)
 
+---
+
 ### AI
 - **[Raycast](https://www.raycast.com/)**: Just the best app for macOS
 - **[Jan](https://jan.ai/)**: Open-source ChatGPT alternative that runs 100% offline
