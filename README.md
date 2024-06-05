@@ -52,6 +52,7 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 ### Design Tools
 - **[Pitch](https://pitch.com/)**: Collaborative presentation software for modern teams
 - **[Excalidraw](https://plus.excalidraw.com/)**: Collaborative whiteboarding
+- **[tldraw](https://www.tldraw.com/)**: Collaborative whiteboarding
 - **[Rive](https://rive.app/)**: Create and ship interactive animations to any platform
 - **[uilabs](https://www.uilabs.dev/)**: Small laboratory of fine UI
 - **[Shots](https://shots.so/)**: Create Amazing Mockups
@@ -118,6 +119,7 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[Endel](https://endel.io/)**: Personalized soundscapes to help you focus, relax & sleep
 - **[Later](https://getlater.app/)**: Save all your Mac apps for later with one click
 - **[Excalidraw](https://plus.excalidraw.com/)**: Collaborative whiteboarding
+- **[tldraw](https://www.tldraw.com/)**: Collaborative whiteboarding
 - **[Arc](https://arc.net/)**: A new web browser with a ton of personality
 - **[UnTrap](https://untrap.app/)**: Create your ideal YT experience
 - **[SocialFocus](https://socialfocus.app/)**: Hide distractions, customize UI, stay productive & focused
