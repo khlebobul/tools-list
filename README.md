@@ -20,7 +20,6 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 9. [Mac](#mac)
 10. [Maker Tools](#maker-tools)
 11. [Notes](#notes)
-12. [Open Source](#open-source)
 13. [Productivity](#productivity)
 14. [Social](#social)
 15. [Travel](#travel)
@@ -87,6 +86,7 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[Shottr](https://shottr.cc/)**: Screenshot tool
 - **[Screen Studio](https://www.screen.studio/)**: Beautiful Screen Recordings
 - **[CleanShot X](https://cleanshot.com/)**: Screenshot tool
+- **[Ice](https://icemenubar.app/)**: Powerful menu bar management tool
 
 ### Maker Tools
 - **[CompressX](https://compressx.app/)**: Significant file size reduction, similar video quality
@@ -102,16 +102,6 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 ### Notes
 - **[Obsidian](https://obsidian.md/)**: A powerful knowledge base that works on local Markdown files
 - **[Notion](https://www.notion.so/product)**: Space for organizing everything that matters
-
-### Open Source
-- **[Raycast](https://www.raycast.com/)**: Just the best app for macOS
-- **[Supabase](https://supabase.com/)**: The open source Firebase alternative
-- **[Jan](https://jan.ai/)**: Open-source ChatGPT alternative that runs 100% offline
-- **[Screenity](https://chromewebstore.google.com/detail/screenity-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C-%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0-%D0%B0/kbbdabhdfibnancpjfhlkhafgdilcnji)**: The free and privacy-friendly screen recorder with no limits
-- **[Obsidian](https://obsidian.md/)**: A powerful knowledge base that works on local Markdown files
-- **[Outline](https://getoutline.org/en-GB/)**: Access to the free and open Internet
-- **[Organic Maps](https://organicmaps.app/)**: Offline Hike, Bike, Trails and Navigation
-- **[NetNewsWire](https://netnewswire.com/)**: Free and open source RSS reader for Mac, iPhone, and iPad
 
 ### Productivity
 - **[Raycast](https://www.raycast.com/)**: Just the best app for macOS
