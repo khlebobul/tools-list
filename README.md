@@ -35,6 +35,7 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[Any Summary](https://www.anysummary.app/)**: Summarize any file with AI
 - **[ChatGPT](https://openai.com/index/chatgpt/)**: Optimizing language models for dialogue
 - **[v0](https://v0.dev/)**: v0 is a generative user interface system
+- **[HuggingChat](https://huggingface.co/chat/)**: open source alternative to ChatGPT
 
 ### Calendar
 - **[Notion Calendar](https://www.notion.so/product/calendar)**: Best calendar
