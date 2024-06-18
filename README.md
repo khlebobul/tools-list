@@ -20,22 +20,21 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 9. [Mac](#mac)
 10. [Maker Tools](#maker-tools)
 11. [Notes](#notes)
-13. [Productivity](#productivity)
-14. [Social](#social)
-15. [Travel](#travel)
-16. [Video](#video)
+12. [Productivity](#productivity)
+13. [Social](#social)
+14. [Travel](#travel)
+15. [Video](#video)
 
 ---
 
 ### AI
-- **[Raycast](https://www.raycast.com/)**: Just the best app for macOS
 - **[Jan](https://jan.ai/)**: Open-source ChatGPT alternative that runs 100% offline
 - **[Loom](https://www.loom.com/)**: Record better, faster video messages with AI
 - **[Fluently](https://getfluently.app/)**: Get personalized feedback after each online call and master your English
 - **[Any Summary](https://www.anysummary.app/)**: Summarize any file with AI
 - **[ChatGPT](https://openai.com/index/chatgpt/)**: Optimizing language models for dialogue
 - **[v0](https://v0.dev/)**: v0 is a generative user interface system
-- **[HuggingChat](https://huggingface.co/chat/)**: open source alternative to ChatGPT
+- **[HuggingChat](https://huggingface.co/chat/)**: Open-source alternative to ChatGPT
 
 ### Calendar
 - **[Notion Calendar](https://www.notion.so/product/calendar)**: Best calendar
@@ -119,7 +118,7 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[Vercel](https://vercel.com/)**: Develop. Preview. Ship.
 - **[KeyboardCleanTool](https://folivora.ai/keyboardcleantool)**: Super simple little tool which blocks all Keyboard and TouchBar input
 - **[NetNewsWire](https://netnewswire.com/)**: Free and open source RSS reader for Mac, iPhone, and iPad
-- **[Deepl](https://www.deepl.com/translator)**: The best translotor
+- **[Deepl](https://www.deepl.com/translator)**: The best translator
 - **[Todoist](https://todoist.com/home)**: Todo list
 - **[Notion](https://www.notion.so/product)**: Space for organizing everything that matters
 - **[Calmaria](https://calmaria.app/)**: Focus / Breathe / Relax
