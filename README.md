@@ -8,24 +8,6 @@ As the number of posts grew, I wanted to compile a list of the tools that have p
 
 If your favorite tool isn't on the list, feel free to fork this repository and submit a PR. I'll make sure to check it out.
 
-### Table of Contents
-1. [AI](#ai)
-2. [Calendar](#calendar)
-3. [Chrome Extension](#chrome-extension)
-4. [Database](#database)
-5. [Design Tools](#design-tools)
-6. [Dev Tools](#dev-tools)
-7. [Health](#health)
-8. [Mac](#mac)
-9. [Maker Tools](#maker-tools)
-10. [Notes](#notes)
-11. [Productivity](#productivity)
-12. [Social](#social)
-13. [Travel](#travel)
-14. [Video](#video)
-
----
-
 ### AI
 - **[Any Summary](https://www.anysummary.app/)**: Summarize any file with AI
 - **[ChatGPT](https://openai.com/index/chatgpt/)**: Optimizing language models for dialogue
