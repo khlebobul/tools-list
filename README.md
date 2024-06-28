@@ -11,7 +11,7 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 ### AI
 - **[Any Summary](https://www.anysummary.app/)**: Summarize any file with AI
 - **[ChatGPT](https://openai.com/index/chatgpt/)**: Optimizing language models for dialogue
-- **[Ollama](https://github.com/ollama/ollama)**
+- **[Ollama](https://github.com/ollama/ollama)**: Large Language Models
 - **[v0](https://v0.dev/)**: v0 is a generative user interface system
 - **[HuggingChat](https://huggingface.co/chat/)**: Open-source alternative to ChatGPT
 
@@ -28,7 +28,7 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[Supabase](https://supabase.com/)**: The open source Firebase alternative
 
 ### Design Tools
-- **[Figma](https://www.figma.com/)**
+- **[Figma](https://www.figma.com/)**: Collaborative design tool
 - **[Excalidraw](https://plus.excalidraw.com/)**: Collaborative whiteboarding
 - **[tldraw](https://www.tldraw.com/)**: Collaborative whiteboarding
 - **[Rive](https://rive.app/)**: Create and ship interactive animations to any platform
@@ -60,6 +60,7 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[Screen Studio](https://www.screen.studio/)**: Beautiful Screen Recordings
 - **[CleanShot X](https://cleanshot.com/)**: Screenshot tool
 - **[Ice](https://icemenubar.app/)**: Powerful menu bar management tool
+- **[Ollamac](https://github.com/kevinhermawan/Ollamac)**: A macOS app for interacting with the Ollama models
 
 ### Maker Tools
 - **[CompressX](https://compressx.app/)**: Significant file size reduction, similar video quality
