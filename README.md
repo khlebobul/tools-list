@@ -1,6 +1,6 @@
 # Tools list
 
-Hello! I'm Gleb Shalimov, a student, programmer, and enthusiast of innovative tools.
+Hello! I'm [Gleb Shalimov](https://khlebobul.github.io/), a student, programmer, and enthusiast of innovative tools.
 
 In 2021, I stumbled upon Product Hunt and began regularly suggesting different tools to my friends. This led me to create a small [channel](https://t.me/ph_daily) on Telegram, where I shared my discoveries. 
 
