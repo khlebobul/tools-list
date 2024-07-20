@@ -111,3 +111,6 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[IINA](https://iina.io/)**: The modern media player for macOS
 - **[Movavi Video Converter](https://www.movavi.com/videoconverter/)**: Video Converter
 - **[Screen Studio](https://www.screen.studio/)**: Beautiful Screen Recordings
+
+### Other
+- **[Overcast](https://overcast.fm/)**: Free, simple, award-winning podcast player for iPhone, iPad, and Apple Watch
