@@ -50,6 +50,7 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[Endel](https://endel.io/)**: Personalized soundscapes to help you focus, relax & sleep
 - **[Be My Eyes](https://www.bemyeyes.com/)**: Ability to see for visually impaired and blind people
 - **[Calmaria](https://calmaria.app/)**: Focus / Breathe / Relax
+- **[LookAway](https://www.lookaway.app/)**: MacOS App to Fix Dry Eyes and Digital Strain
 
 ### Mac
 - **[Raycast](https://www.raycast.com/)**: Just the best app for macOS
@@ -61,6 +62,7 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[CleanShot X](https://cleanshot.com/)**: Screenshot tool
 - **[Ice](https://icemenubar.app/)**: Powerful menu bar management tool
 - **[Ollamac](https://github.com/kevinhermawan/Ollamac)**: A macOS app for interacting with the Ollama models
+- **[LookAway](https://www.lookaway.app/)**: MacOS App to Fix Dry Eyes and Digital Strain
 
 ### Maker Tools
 - **[CompressX](https://compressx.app/)**: Significant file size reduction, similar video quality
@@ -92,6 +94,7 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[Todoist](https://todoist.com/home)**: Todo list
 - **[Notion](https://www.notion.so/product)**: Space for organizing everything that matters
 - **[Calmaria](https://calmaria.app/)**: Focus / Breathe / Relax
+- **[LookAway](https://www.lookaway.app/)**: MacOS App to Fix Dry Eyes and Digital Strain
 
 ### Social
 - **[UnTrap](https://untrap.app/)**: Create your ideal YT experience
