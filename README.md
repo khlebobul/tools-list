@@ -115,6 +115,27 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 
 ### Other
 - **[Overcast](https://overcast.fm/)**: Free, simple, award-winning podcast player for iPhone, iPad, and Apple Watch
-
+---
 ### Raycast extensions list 
-In progress...
+- **[Visual Studio Code](https://www.raycast.com/thomas/visual-studio-code)**: Control Visual Studio Code, Cursor & Codium directly from Raycast
+- **[Year in Progress](https://www.raycast.com/thomas/year-in-progress)**: Stay motivated by see the progress of the year
+- **[Toothpick](https://www.raycast.com/VladCuciureanu/toothpick)**: Manage Bluetooth connections in Raycast
+- **[Timers](https://www.raycast.com/ThatNerd/timers)**: Start, stop, and save countdown timers, directly in Raycast, with no external dependencies.
+- **[Brew](https://www.raycast.com/nhojb/brew)**: Search and install Homebrew formulae
+- **[Clean Keyboard](https://www.raycast.com/ike-gg/clean-keyboard)**: Lock your keyboard to clean it easily
+- **[Coffee](https://www.raycast.com/mooxl/coffee)**: Prevent the sleep function on your mac
+- **[Color Picker](https://www.raycast.com/thomas/color-picker)**: Pick and organize colors, everywhere on your Mac
+- **[Kill Process](https://www.raycast.com/rolandleth/kill-process)**: Lists all running processes, ordered by CPU or memory usage and allows killing one
+- **[NBA Viewer](https://www.raycast.com/AbhinavPalacharla/nba-viewer)**: View upcoming NBA games and NBA team standings
+- **[Ollama AI](https://www.raycast.com/massimiliano_pasquini/raycast-ollama)**: Perform Local Inference with Ollama
+- **[QR Code Generator](https://www.raycast.com/Melvynx/qrcode-generator)**: Generate QR code for an URL
+- **[ray.so](https://www.raycast.com/garrett/ray-so)**: Create beautiful images of your code using ray.so
+
+#### My extensions
+- **[TechCrunch](https://www.raycast.com/khlebobul/techcrunch)**: Read the best news from TechCrunch
+- **[Bed Time Calculator](https://www.raycast.com/khlebobul/bed-time-calculator)**: Extension for Raycast that will help you calculate the best time to sleep or wake up
+- **[ESPN News](https://www.raycast.com/khlebobul/espn)**: Read the best news from ESPN directly from Raycast
+- **[Just Breathe](https://www.raycast.com/khlebobul/just-breathe)**: An instrument for relaxation through breathing
+- **[VC.ru Popular News](https://www.raycast.com/khlebobul/vc-ru-news)**: List popular news from VC.ru
+- **[Rusbase](https://www.raycast.com/khlebobul/rusbase)**: Get sections, markets and companies from Rusbase directly in Raycast
+- **[Habr News](https://www.raycast.com/khlebobul/habr-media)**: Best News From Habr
