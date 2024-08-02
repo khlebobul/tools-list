@@ -56,7 +56,6 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[Raycast](https://www.raycast.com/)**: Just the best app for macOS
 - **[IINA](https://iina.io/)**: The modern media player for macOS
 - **[The Unarchiver](https://theunarchiver.com/)**: The best Unarchiver for macOS
-- **[KeyboardCleanTool](https://folivora.ai/keyboardcleantool)**: Super simple little tool which blocks all Keyboard and TouchBar input
 - **[Shottr](https://shottr.cc/)**: Screenshot tool
 - **[Screen Studio](https://www.screen.studio/)**: Beautiful Screen Recordings
 - **[CleanShot X](https://cleanshot.com/)**: Screenshot tool
@@ -88,7 +87,6 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[Arc](https://arc.net/)**: A new web browser with a ton of personality
 - **[UnTrap](https://untrap.app/)**: Create your ideal YT experience
 - **[Spark](https://sparkmailapp.com/)**: Fast, cross-platform email designed to filter out the noise
-- **[KeyboardCleanTool](https://folivora.ai/keyboardcleantool)**: Super simple little tool which blocks all Keyboard and TouchBar input
 - **[NetNewsWire](https://netnewswire.com/)**: Free and open source RSS reader for Mac, iPhone, and iPad
 - **[Deepl](https://www.deepl.com/translator)**: The best translator
 - **[Todoist](https://todoist.com/home)**: Todo list
