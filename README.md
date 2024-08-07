@@ -45,6 +45,7 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[Developer Roadmaps](https://roadmap.sh/)**: Community effort to create roadmaps
 - **[GitHub](https://github.com/about)**: The complete developer platform to build, scale, and deliver secure software
 - **[Vercel](https://vercel.com/)**: Develop. Preview. Ship.
+- **[Sidekick for Flutter](https://github.com/fluttertools/sidekick)**: A simple app to make Flutter development more delightful.
 
 ### Health
 - **[Endel](https://endel.io/)**: Personalized soundscapes to help you focus, relax & sleep
