@@ -23,6 +23,7 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[Screenity](https://chromewebstore.google.com/detail/screenity-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C-%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0-%D0%B0/kbbdabhdfibnancpjfhlkhafgdilcnji)**: The free and privacy-friendly screen recorder with no limits
 - **[UnTrap](https://untrap.app/)**: Create your ideal YT experience
 - **[SocialFocus](https://socialfocus.app/)**: Hide distractions, customize UI, stay productive & focused
+- **[LanguageTool](https://chromewebstore.google.com/detail/%D0%BA%D0%BE%D1%80%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80-%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B8-%D0%B8-%D0%BE%D1%80/oldceeleldhonbafppcapldpdifcinji)**: Free Grammar Checker
 
 ### Database
 - **[Supabase](https://supabase.com/)**: The open source Firebase alternative
@@ -63,6 +64,7 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[Ice](https://icemenubar.app/)**: Powerful menu bar management tool
 - **[Ollamac](https://github.com/kevinhermawan/Ollamac)**: A macOS app for interacting with the Ollama models
 - **[LookAway](https://www.lookaway.app/)**: MacOS App to Fix Dry Eyes and Digital Strain
+- **[LanguageTool](https://languagetool.org/mac-desktop)**: Free Grammar Checker
 
 ### Maker Tools
 - **[CompressX](https://compressx.app/)**: Significant file size reduction, similar video quality
@@ -94,6 +96,7 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[Notion](https://www.notion.so/product)**: Space for organizing everything that matters
 - **[Calmaria](https://calmaria.app/)**: Focus / Breathe / Relax
 - **[LookAway](https://www.lookaway.app/)**: MacOS App to Fix Dry Eyes and Digital Strain
+- **[LanguageTool](https://languagetool.org/mac-desktop)**: Free Grammar Checker
 
 ### Social
 - **[UnTrap](https://untrap.app/)**: Create your ideal YT experience
