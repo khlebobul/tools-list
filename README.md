@@ -87,7 +87,6 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[Endel](https://endel.io/)**: Personalized soundscapes to help you focus, relax & sleep
 - **[Excalidraw](https://plus.excalidraw.com/)**: Collaborative whiteboarding
 - **[tldraw](https://www.tldraw.com/)**: Collaborative whiteboarding
-- **[Arc](https://arc.net/)**: A new web browser with a ton of personality
 - **[UnTrap](https://untrap.app/)**: Create your ideal YT experience
 - **[Spark](https://sparkmailapp.com/)**: Fast, cross-platform email designed to filter out the noise
 - **[NetNewsWire](https://netnewswire.com/)**: Free and open source RSS reader for Mac, iPhone, and iPad
