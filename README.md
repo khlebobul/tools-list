@@ -36,6 +36,7 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[uilabs](https://www.uilabs.dev/)**: Small laboratory of fine UI
 - **[Shots](https://shots.so/)**: Create Amazing Mockups
 - **[SPACE TYPE GENERATOR](https://spacetypegenerator.com/index.html)**: Animated fonts
+- **[SNEAKPEEKIT](https://sneakpeekit.com)**: Printable wireframe templates 
 
 ### Dev Tools
 - **[Supabase](https://supabase.com/)**: The open source Firebase alternative
@@ -76,6 +77,7 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[CleanShot X](https://cleanshot.com/)**: Screenshot tool
 - **[Edit•Photo](https://edit.photo/)**: The Free Online Photo Editor In Your Browser
 - **[Blot](https://blot.im/how)**: Blot turns a folder into a website
+- **[SNEAKPEEKIT](https://sneakpeekit.com)**: Printable wireframe templates
 
 ### Notes
 - **[Obsidian](https://obsidian.md/)**: A powerful knowledge base that works on local Markdown files
