@@ -81,7 +81,6 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 
 ### Notes
 - **[Obsidian](https://obsidian.md/)**: A powerful knowledge base that works on local Markdown files
-- **[Notion](https://www.notion.so/product)**: Space for organizing everything that matters
 
 ### Productivity
 - **[Raycast](https://www.raycast.com/)**: Just the best app for macOS
@@ -94,7 +93,6 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[NetNewsWire](https://netnewswire.com/)**: Free and open source RSS reader for Mac, iPhone, and iPad
 - **[Deepl](https://www.deepl.com/translator)**: The best translator
 - **[Todoist](https://todoist.com/home)**: Todo list
-- **[Notion](https://www.notion.so/product)**: Space for organizing everything that matters
 - **[Calmaria](https://calmaria.app/)**: Focus / Breathe / Relax
 - **[LookAway](https://www.lookaway.app/)**: MacOS App to Fix Dry Eyes and Digital Strain
 - **[LanguageTool](https://languagetool.org/mac-desktop)**: Free Grammar Checker
