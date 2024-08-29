@@ -12,7 +12,7 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[Any Summary](https://www.anysummary.app/)**: Summarize any file with AI
 - **[ChatGPT](https://openai.com/index/chatgpt/)**: Optimizing language models for dialogue
 - **[Ollama](https://github.com/ollama/ollama)**: Large Language Models
-- **[v0](https://v0.dev/)**: v0 is a generative user interface system
+- **[Claude AI](https://claude.ai)**: Next generation AI assistant
 - **[HuggingChat](https://huggingface.co/chat/)**: Open-source alternative to ChatGPT
 
 ### Chrome Extension
@@ -38,7 +38,6 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[Supabase](https://supabase.com/)**: The open source Firebase alternative
 - **[Fork](https://git-fork.com/)**: Fast and friendly git client for Mac and Windows
 - **[Rive](https://rive.app/)**: Create and ship interactive animations to any platform
-- **[v0](https://v0.dev/)**: v0 is a generative user interface system
 - **[uilabs](https://www.uilabs.dev/)**: Small laboratory of fine UI
 - **[Developer Roadmaps](https://roadmap.sh/)**: Community effort to create roadmaps
 - **[GitHub](https://github.com/about)**: The complete developer platform to build, scale, and deliver secure software
