@@ -136,3 +136,6 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[VC.ru Popular News](https://www.raycast.com/khlebobul/vc-ru-news)**: List popular news from VC.ru
 - **[Rusbase](https://www.raycast.com/khlebobul/rusbase)**: Get sections, markets and companies from Rusbase directly in Raycast
 - **[Habr News](https://www.raycast.com/khlebobul/habr-media)**: Best News From Habr
+
+---
+### VS Code extensions (is progress...)
