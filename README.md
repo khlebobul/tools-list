@@ -15,10 +15,6 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[v0](https://v0.dev/)**: v0 is a generative user interface system
 - **[HuggingChat](https://huggingface.co/chat/)**: Open-source alternative to ChatGPT
 
-### Calendar
-- **[Notion Calendar](https://www.notion.so/product/calendar)**: Best calendar
-- **[Calendly](https://calendly.com/)**: Scheduling automation platform
-
 ### Chrome Extension
 - **[Screenity](https://chromewebstore.google.com/detail/screenity-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C-%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0-%D0%B0/kbbdabhdfibnancpjfhlkhafgdilcnji)**: The free and privacy-friendly screen recorder with no limits
 - **[UnTrap](https://untrap.app/)**: Create your ideal YT experience
@@ -84,7 +80,6 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 
 ### Productivity
 - **[Raycast](https://www.raycast.com/)**: Just the best app for macOS
-- **[Notion Calendar (ex. Cron)](https://www.notion.so/product/calendar)**: Best calendar
 - **[Endel](https://endel.io/)**: Personalized soundscapes to help you focus, relax & sleep
 - **[Excalidraw](https://plus.excalidraw.com/)**: Collaborative whiteboarding
 - **[tldraw](https://www.tldraw.com/)**: Collaborative whiteboarding
