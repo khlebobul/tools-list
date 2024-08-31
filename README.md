@@ -28,7 +28,6 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[Figma](https://www.figma.com/)**: Collaborative design tool
 - **[Excalidraw](https://plus.excalidraw.com/)**: Collaborative whiteboarding
 - **[tldraw](https://www.tldraw.com/)**: Collaborative whiteboarding
-- **[Rive](https://rive.app/)**: Create and ship interactive animations to any platform
 - **[uilabs](https://www.uilabs.dev/)**: Small laboratory of fine UI
 - **[Shots](https://shots.so/)**: Create Amazing Mockups
 - **[SPACE TYPE GENERATOR](https://spacetypegenerator.com/index.html)**: Animated fonts
@@ -37,7 +36,6 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 ### Dev Tools
 - **[Supabase](https://supabase.com/)**: The open source Firebase alternative
 - **[Fork](https://git-fork.com/)**: Fast and friendly git client for Mac and Windows
-- **[Rive](https://rive.app/)**: Create and ship interactive animations to any platform
 - **[uilabs](https://www.uilabs.dev/)**: Small laboratory of fine UI
 - **[Developer Roadmaps](https://roadmap.sh/)**: Community effort to create roadmaps
 - **[GitHub](https://github.com/about)**: The complete developer platform to build, scale, and deliver secure software
