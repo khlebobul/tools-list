@@ -21,9 +21,6 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[SocialFocus](https://socialfocus.app/)**: Hide distractions, customize UI, stay productive & focused
 - **[LanguageTool](https://chromewebstore.google.com/detail/%D0%BA%D0%BE%D1%80%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80-%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B8-%D0%B8-%D0%BE%D1%80/oldceeleldhonbafppcapldpdifcinji)**: Free Grammar Checker
 
-### Database
-- **[Supabase](https://supabase.com/)**: The open source Firebase alternative
-
 ### Design Tools
 - **[Figma](https://www.figma.com/)**: Collaborative design tool
 - **[Excalidraw](https://plus.excalidraw.com/)**: Collaborative whiteboarding
@@ -77,11 +74,9 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[SNEAKPEEKIT](https://sneakpeekit.com)**: Printable wireframe templates
 - **[Keyviz](https://github.com/mulaRahul/keyviz)**: Free and open-source software to visualise your keystrokes and mouse actions in real time
 
-### Notes
-- **[Obsidian](https://obsidian.md/)**: A powerful knowledge base that works on local Markdown files
-
 ### Productivity
 - **[Raycast](https://www.raycast.com/)**: Just the best app for macOS
+- **[Obsidian](https://obsidian.md/)**: A powerful knowledge base that works on local Markdown files
 - **[Endel](https://endel.io/)**: Personalized soundscapes to help you focus, relax & sleep
 - **[Excalidraw](https://plus.excalidraw.com/)**: Collaborative whiteboarding
 - **[tldraw](https://www.tldraw.com/)**: Collaborative whiteboarding
