@@ -42,7 +42,6 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 ### Health
 - **[Endel](https://endel.io/)**: Personalized soundscapes to help you focus, relax & sleep
 - **[Be My Eyes](https://www.bemyeyes.com/)**: Ability to see for visually impaired and blind people
-- **[Calmaria](https://calmaria.app/)**: Focus / Breathe / Relax
 - **[LookAway](https://www.lookaway.app/)**: MacOS App to Fix Dry Eyes and Digital Strain
 - **[Figure 8](https://khlebobul26.gumroad.com/l/figure8)**: Companion for maintaining eye health
 
@@ -57,8 +56,6 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[Ollamac](https://github.com/kevinhermawan/Ollamac)**: A macOS app for interacting with the Ollama models
 - **[LookAway](https://www.lookaway.app/)**: MacOS App to Fix Dry Eyes and Digital Strain
 - **[LanguageTool](https://languagetool.org/mac-desktop)**: Free Grammar Checker
-- **[TomatoBar](https://github.com/ivoronin/TomatoBar)**: Pomodoro timer for macOS menu bar
-- **[Shortcat](https://shortcat.app)**: Manipulate macOS masterfully, minus the mouse
 - **[Glide](https://www.reddit.com/r/macapps/comments/1fino1d/never_rearrange_your_monitors_again/)**: A tool that automatically adjusts your cursor to the position of the monitor
 
 ### Maker Tools
@@ -85,10 +82,8 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[NetNewsWire](https://netnewswire.com/)**: Free and open source RSS reader for Mac, iPhone, and iPad
 - **[Deepl](https://www.deepl.com/translator)**: The best translator
 - **[Todoist](https://todoist.com/home)**: Todo list
-- **[Calmaria](https://calmaria.app/)**: Focus / Breathe / Relax
 - **[LookAway](https://www.lookaway.app/)**: MacOS App to Fix Dry Eyes and Digital Strain
 - **[LanguageTool](https://languagetool.org/mac-desktop)**: Free Grammar Checker
-- **[TomatoBar](https://github.com/ivoronin/TomatoBar)**: Pomodoro timer for macOS menu bar
 - **[Shortcat](https://shortcat.app)**: Manipulate macOS masterfully, minus the mouse
 - **[Glide](https://www.reddit.com/r/macapps/comments/1fino1d/never_rearrange_your_monitors_again/)**: A tool that automatically adjusts your cursor to the position of the monitor
 
