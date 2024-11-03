@@ -14,6 +14,8 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[Ollama](https://github.com/ollama/ollama)**: Large Language Models
 - **[Claude AI](https://claude.ai)**: Next generation AI assistant
 - **[HuggingChat](https://huggingface.co/chat/)**: Open-source alternative to ChatGPT
+- **[Cursor](https://www.cursor.com)**: The AI Code Editor
+- **[Bolt](https://bolt.new)**: Prompt, run, edit, and deploy full-stack web apps
 
 ### Chrome Extension
 - **[Screenity](https://chromewebstore.google.com/detail/screenity-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C-%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0-%D0%B0/kbbdabhdfibnancpjfhlkhafgdilcnji)**: The free and privacy-friendly screen recorder with no limits
