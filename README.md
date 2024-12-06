@@ -30,7 +30,8 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[uilabs](https://www.uilabs.dev/)**: Small laboratory of fine UI
 - **[Shots](https://shots.so/)**: Create Amazing Mockups
 - **[SPACE TYPE GENERATOR](https://spacetypegenerator.com/index.html)**: Animated fonts
-- **[SNEAKPEEKIT](https://sneakpeekit.com)**: Printable wireframe templates 
+- **[SNEAKPEEKIT](https://sneakpeekit.com)**: Printable wireframe templates
+- **[ASCII play](https://play.ertdfgcvb.xyz)**: ASCII playgroud
 
 ### Dev Tools
 - **[Supabase](https://supabase.com/)**: The open source Firebase alternative
