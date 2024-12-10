@@ -32,6 +32,7 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[SPACE TYPE GENERATOR](https://spacetypegenerator.com/index.html)**: Animated fonts
 - **[SNEAKPEEKIT](https://sneakpeekit.com)**: Printable wireframe templates
 - **[ASCII play](https://play.ertdfgcvb.xyz)**: ASCII playgroud
+- **[Tooooools](https://www.tooooools.app)**: Free minimalist and lo-fi effects for image processing online
 
 ### Dev Tools
 - **[Supabase](https://supabase.com/)**: The open source Firebase alternative
