@@ -63,6 +63,7 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[LookAway](https://www.lookaway.app/)**: MacOS App to Fix Dry Eyes and Digital Strain
 - **[LanguageTool](https://languagetool.org/mac-desktop)**: Free Grammar Checker
 - **[Glide](https://www.reddit.com/r/macapps/comments/1fino1d/never_rearrange_your_monitors_again/)**: A tool that automatically adjusts your cursor to the position of the monitor
+- **[Finicky](https://github.com/johnste/finicky)**: Set up rules that decide which browser is opened for every link or url
 
 ### Maker Tools
 - **[CompressX](https://compressx.app/)**: Significant file size reduction, similar video quality
