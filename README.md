@@ -62,7 +62,7 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[Ollamac](https://github.com/kevinhermawan/Ollamac)**: A macOS app for interacting with the Ollama models
 - **[LookAway](https://www.lookaway.app/)**: MacOS App to Fix Dry Eyes and Digital Strain
 - **[LanguageTool](https://languagetool.org/mac-desktop)**: Free Grammar Checker
-- **[Glide](https://www.reddit.com/r/macapps/comments/1fino1d/never_rearrange_your_monitors_again/)**: A tool that automatically adjusts your cursor to the position of the monitor
+- **[espresso Flow](https://eu.espres.so/downloads)**: A tool that automatically adjusts your cursor to the position of the monitor
 - **[Finicky](https://github.com/johnste/finicky)**: Set up rules that decide which browser is opened for every link or url
 
 ### Maker Tools
@@ -92,7 +92,7 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[LookAway](https://www.lookaway.app/)**: MacOS App to Fix Dry Eyes and Digital Strain
 - **[LanguageTool](https://languagetool.org/mac-desktop)**: Free Grammar Checker
 - **[Shortcat](https://shortcat.app)**: Manipulate macOS masterfully, minus the mouse
-- **[Glide](https://www.reddit.com/r/macapps/comments/1fino1d/never_rearrange_your_monitors_again/)**: A tool that automatically adjusts your cursor to the position of the monitor
+- **[espresso Flow](https://eu.espres.so/downloads)**: A tool that automatically adjusts your cursor to the position of the monitor
 
 ### Social
 - **[UnTrap](https://untrap.app/)**: Create your ideal YT experience
