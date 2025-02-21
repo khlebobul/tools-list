@@ -14,6 +14,7 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[Ollama](https://github.com/ollama/ollama)**: Large Language Models
 - **[Claude AI](https://claude.ai)**: Next generation AI assistant
 - **[HuggingChat](https://huggingface.co/chat/)**: Open-source alternative to ChatGPT
+- **[Mistral AI](https://huggingface.co/chat/)**: World's greenest and leading independent AI lab
 - **[Cursor](https://www.cursor.com)**: The AI Code Editor
 - **[Bolt](https://bolt.new)**: Prompt, run, edit, and deploy full-stack web apps
 
