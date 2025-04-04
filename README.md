@@ -86,7 +86,6 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[Excalidraw](https://plus.excalidraw.com/)**: Collaborative whiteboarding
 - **[tldraw](https://www.tldraw.com/)**: Collaborative whiteboarding
 - **[UnTrap](https://untrap.app/)**: Create your ideal YT experience
-- **[Spark](https://sparkmailapp.com/)**: Fast, cross-platform email designed to filter out the noise
 - **[NetNewsWire](https://netnewswire.com/)**: Free and open source RSS reader for Mac, iPhone, and iPad
 - **[Deepl](https://www.deepl.com/translator)**: The best translator
 - **[Todoist](https://todoist.com/home)**: Todo list
@@ -98,7 +97,6 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 
 ### Social
 - **[UnTrap](https://untrap.app/)**: Create your ideal YT experience
-- **[Spark](https://sparkmailapp.com/)**: Fast, cross-platform email designed to filter out the noise
 - **[GitHub](https://github.com/about)**: The complete developer platform to build, scale, and deliver secure software
 - **[NetNewsWire](https://netnewswire.com/)**: Free and open source RSS reader for Mac, iPhone, and iPad
 - **[Calendly](https://calendly.com/)**: Scheduling automation platform
