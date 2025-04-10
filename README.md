@@ -93,7 +93,6 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[LanguageTool](https://languagetool.org/mac-desktop)**: Free Grammar Checker
 - **[Shortcat](https://shortcat.app)**: Manipulate macOS masterfully, minus the mouse
 - **[espresso Flow](https://eu.espres.so/downloads)**: A tool that automatically adjusts your cursor to the position of the monitor
-- **[BetterMouse](https://better-mouse.com)**: macOS utility app that gives you smooth mouse scrolling, cursor speed control, and powerful mouse/keyboard bindings
 
 ### Social
 - **[UnTrap](https://untrap.app/)**: Create your ideal YT experience
