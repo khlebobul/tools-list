@@ -6,8 +6,6 @@ In 2021, I stumbled upon Product Hunt and began regularly suggesting different t
 
 As the number of posts grew, I wanted to compile a list of the tools that have piqued my interest the most and that I use regularly, in a publicly accessible format.
 
-If your favorite tool isn't on the list, feel free to fork this repository and submit a PR. I'll make sure to check it out.
-
 ### AI
 - **[Any Summary](https://www.anysummary.app/)**: Summarize any file with AI
 - **[ChatGPT](https://openai.com/index/chatgpt/)**: Optimizing language models for dialogue
@@ -28,7 +26,6 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[Figma](https://www.figma.com/)**: Collaborative design tool
 - **[Excalidraw](https://plus.excalidraw.com/)**: Collaborative whiteboarding
 - **[tldraw](https://www.tldraw.com/)**: Collaborative whiteboarding
-- **[uilabs](https://www.uilabs.dev/)**: Small laboratory of fine UI
 - **[Shots](https://shots.so/)**: Create Amazing Mockups
 - **[SPACE TYPE GENERATOR](https://spacetypegenerator.com/index.html)**: Animated fonts
 - **[SNEAKPEEKIT](https://sneakpeekit.com)**: Printable wireframe templates
@@ -40,28 +37,19 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 ### Dev Tools
 - **[Supabase](https://supabase.com/)**: The open source Firebase alternative
 - **[Fork](https://git-fork.com/)**: Fast and friendly git client for Mac and Windows
-- **[uilabs](https://www.uilabs.dev/)**: Small laboratory of fine UI
 - **[Developer Roadmaps](https://roadmap.sh/)**: Community effort to create roadmaps
 - **[GitHub](https://github.com/about)**: The complete developer platform to build, scale, and deliver secure software
 - **[Vercel](https://vercel.com/)**: Develop. Preview. Ship.
 - **[Sidekick for Flutter](https://github.com/fluttertools/sidekick)**: A simple app to make Flutter development more delightful.
 
-### Health
-- **[Endel](https://endel.io/)**: Personalized soundscapes to help you focus, relax & sleep
-- **[Be My Eyes](https://www.bemyeyes.com/)**: Ability to see for visually impaired and blind people
-- **[LookAway](https://www.lookaway.app/)**: MacOS App to Fix Dry Eyes and Digital Strain
-- **[Figure 8](https://khlebobul26.gumroad.com/l/figure8)**: Companion for maintaining eye health
-
 ### Mac
 - **[Raycast](https://www.raycast.com/)**: Just the best app for macOS
 - **[IINA](https://iina.io/)**: The modern media player for macOS
-- **[The Unarchiver](https://theunarchiver.com/)**: The best Unarchiver for macOS
+- **[](https://www.keka.io/ru/)**: The macOS file archiver
 - **[Shottr](https://shottr.cc/)**: Screenshot tool
 - **[Screen Studio](https://www.screen.studio/)**: Beautiful Screen Recordings
-- **[CleanShot X](https://cleanshot.com/)**: Screenshot tool
 - **[Ice](https://icemenubar.app/)**: Powerful menu bar management tool
 - **[Ollamac](https://github.com/kevinhermawan/Ollamac)**: A macOS app for interacting with the Ollama models
-- **[LookAway](https://www.lookaway.app/)**: MacOS App to Fix Dry Eyes and Digital Strain
 - **[LanguageTool](https://languagetool.org/mac-desktop)**: Free Grammar Checker
 - **[espresso Flow](https://eu.espres.so/downloads)**: A tool that automatically adjusts your cursor to the position of the monitor
 - **[Finicky](https://github.com/johnste/finicky)**: Set up rules that decide which browser is opened for every link or url
@@ -73,23 +61,19 @@ If your favorite tool isn't on the list, feel free to fork this repository and s
 - **[Montaigne](https://montaigne.io/)**: Montaigne turns your Apple Notes into a website
 - **[Shottr](https://shottr.cc/)**: Screenshot tool
 - **[Screen Studio](https://www.screen.studio/)**: Beautiful Screen Recordings
-- **[CleanShot X](https://cleanshot.com/)**: Screenshot tool
 - **[Edit•Photo](https://edit.photo/)**: The Free Online Photo Editor In Your Browser
 - **[Blot](https://blot.im/how)**: Blot turns a folder into a website
 - **[SNEAKPEEKIT](https://sneakpeekit.com)**: Printable wireframe templates
-- **[Keyviz](https://github.com/mulaRahul/keyviz)**: Free and open-source software to visualise your keystrokes and mouse actions in real time
 
 ### Productivity
 - **[Raycast](https://www.raycast.com/)**: Just the best app for macOS
 - **[Obsidian](https://obsidian.md/)**: A powerful knowledge base that works on local Markdown files
-- **[Endel](https://endel.io/)**: Personalized soundscapes to help you focus, relax & sleep
 - **[Excalidraw](https://plus.excalidraw.com/)**: Collaborative whiteboarding
 - **[tldraw](https://www.tldraw.com/)**: Collaborative whiteboarding
 - **[UnTrap](https://untrap.app/)**: Create your ideal YT experience
 - **[NetNewsWire](https://netnewswire.com/)**: Free and open source RSS reader for Mac, iPhone, and iPad
 - **[Deepl](https://www.deepl.com/translator)**: The best translator
 - **[Todoist](https://todoist.com/home)**: Todo list
-- **[LookAway](https://www.lookaway.app/)**: MacOS App to Fix Dry Eyes and Digital Strain
 - **[LanguageTool](https://languagetool.org/mac-desktop)**: Free Grammar Checker
 - **[Shortcat](https://shortcat.app)**: Manipulate macOS masterfully, minus the mouse
 - **[espresso Flow](https://eu.espres.so/downloads)**: A tool that automatically adjusts your cursor to the position of the monitor
